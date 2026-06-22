@@ -144,19 +144,5 @@ Local Deployment:
 
 ```text
 http://localhost:8501
-```
 
-(Replace this with your deployed link if hosted online.)
 
----
-
-## Learning Outcomes
-
-Through this project, I learned:
-
-- Document preprocessing techniques
-- Text chunking strategies
-- Semantic search and vector similarity
-- Working with embeddings
-- Building Retrieval-Augmented Generation systems
-- Developing interactive NLP applications using Streamlit
